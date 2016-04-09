@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <programmering>
+        <item>
+            <day>1</day>
+            <start>07:00</start>
+            <end>09:00</end>
+            <name>Pepijn wordt wakker</name>
+            <presentator>Pepijn Vermunt</presentator>
+        </item>
+        <item>
+            <day>1</day>
+            <start>09:00</start>
+            <end>10:00</end>
+            <name>ZuidWest Werkt</name>
+            <presentator>Thomas Diederen</presentator>
+        </item>
+        <item>
+            <day>1</day>
+            <start>10:00</start>
+            <end>12:00</end>
+            <name>ZuidWest in de morgen</name>
+            <presentator>Marco Aarden</presentator>
+        </item>
+        <item>
+            <day>1</day>
+            <start>12:00</start>
+            <end>13:00</end>
+            <name>Lunchbreak</name>
+            <presentator>Dennis van de Merbel</presentator>
+        </item>
+        <item>
+            <day>1</day>
+            <start>13:00</start>
+            <end>15:00</end>
+            <name>Dosis Popmuziek</name>
+            <presentator>Hans van Loenhout</presentator>
+        </item>
+        <item>
+            <day>1</day>
+            <start>15:00</start>
+            <end>17:00</end>
+            <name>ZuidWest in de middag</name>
+            <presentator>Dion Dietvorst</presentator>
+        </item>
+        <item>
+            <day>1</day>
+            <start>17:00</start>
+            <end>18:00</end>
+            <name>Hitgalerij</name>
+            <presentator>Felix Moor</presentator>
+        </item>
+        <item>
+            <day>1</day>
+            <start>18:00</start>
+            <end>19:00</end>
+            <name>ZuidWest Update</name>
+            <presentator>Paul en Kitty Joachems</presentator>
+        </item>
+        <item>
+            <day>1</day>
+            <start>19:00</start>
+            <end>21:00</end>
+            <name>ZuidWest Sport</name>
+            <presentator>Remco van Herk</presentator>
+        </item>
+        <item>
+            <day>1</day>
+            <start>21:00</start>
+            <end>07:00</end>
+            <name>ZuidWest FM Nonstop</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>2</day>
+            <start> 07:00</start>
+            <end>09:00 </end>
+            <name>Pepijn wordt wakker</name>
+            <presentator>Pepijn Vermunt</presentator>
+        </item>
+        <item>
+            <day>2</day>
+            <start>09:00</start>
+            <end>10:00</end>
+            <name>ZuidWest Werkt</name>
+            <presentator>Thomas Diederen</presentator>
+        </item>
+        <item>
+            <day>2</day>
+            <start>10:00</start>
+            <end>12:00</end>
+            <name>ZuidWest in de morgen</name>
+            <presentator>Marco Aarden</presentator>
+        </item>
+        <item>
+            <day>2</day>
+            <start>12:00</start>
+            <end>13:00</end>
+            <name>Lunchbreak</name>
+            <presentator>Dennis van de Merbel</presentator>
+        </item>
+        <item>
+            <day>2</day>
+            <start>13:00</start>
+            <end>15:00</end>
+            <name>Dosis Popmuziek</name>
+            <presentator>Hans van Loenhout</presentator>
+        </item>
+        <item>
+            <day>2</day>
+            <start>15:00</start>
+            <end>17:00</end>
+            <name>ZuidWest in de middag</name>
+            <presentator>Dion Dietvorst</presentator>
+        </item>
+        <item>
+            <day>2</day>
+            <start>17:00</start>
+            <end>18:00</end>
+            <name>Hitgalerij</name>
+            <presentator>Felix Moor</presentator>
+        </item>
+        <item>
+            <day>2</day>
+            <start>18:00</start>
+            <end>19:00</end>
+            <name>ZuidWest Update</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>2</day>
+            <start>19:00</start>
+            <end>21:00</end>
+            <name>Eigenwijs</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>2</day>
+            <start>21:00</start>
+            <end>07:00</end>
+            <name>ZuidWest FM Nonstop</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>3</day>
+            <start>07:00</start>
+            <end>09:00</end>
+            <name>Pepijn wordt wakker</name>
+            <presentator>Pepijn Vermunt</presentator>
+        </item>
+        <item>
+            <day>3</day>
+            <start>09:00</start>
+            <end>10:00</end>
+            <name>ZuidWest Werkt</name>
+            <presentator>Thomas Diederen</presentator>
+        </item>
+        <item>
+            <day>3</day>
+            <start>10:00</start>
+            <end>12:00</end>
+            <name>ZuidWest in de morgen</name>
+            <presentator>Marco Aarden</presentator>
+        </item>
+        <item>
+            <day>3</day>
+            <start>12:00</start>
+            <end>13:00</end>
+            <name>Lunchbreak</name>
+            <presentator>Dennis van de Merbel</presentator>
+        </item>
+        <item>
+            <day>3</day>
+            <start>13:00</start>
+            <end>15:00</end>
+            <name>Dosis Popmuziek</name>
+            <presentator>Hans van Loenhout</presentator>
+        </item>
+        <item>
+            <day>3</day>
+            <start>15:00</start>
+            <end>17:00</end>
+            <name>ZuidWest in de middag</name>
+            <presentator>Dion Dietvorst</presentator>
+        </item>
+        <item>
+            <day>3</day>
+            <start>17:00</start>
+            <end>18:00</end>
+            <name>Hitgalerij</name>
+            <presentator>Felix Moor</presentator>
+        </item>
+        <item>
+            <day>3</day>
+            <start>18:00</start>
+            <end>19:00</end>
+            <name>ZuidWest Update</name>
+            <presentator>Kees Spikker</presentator>
+        </item>
+        <item>
+            <day>3</day>
+            <start>19:00</start>
+            <end>21:00</end>
+            <name>ZuidWest Teens</name>
+            <presentator>Edith en Lukas</presentator>
+        </item>
+        <item>
+            <day>3</day>
+            <start>21:00</start>
+            <end>07:00</end>
+            <name>ZuidWest FM Nonstop</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>4</day>
+            <start>07:00</start>
+            <end>09:00</end>
+            <name>Pepijn wordt wakker</name>
+            <presentator>Pepijn Vermunt</presentator>
+        </item>
+        <item>
+            <day>4</day>
+            <start>09:00</start>
+            <end>10:00</end>
+            <name>ZuidWest Werkt</name>
+            <presentator>Thomas Diederen</presentator>
+        </item>
+        <item>
+            <day>4</day>
+            <start>10:00</start>
+            <end>12:00</end>
+            <name>ZuidWest in de morgen</name>
+            <presentator>Marco Aarden</presentator>
+        </item>
+        <item>
+            <day>4</day>
+            <start>12:00</start>
+            <end>13:00</end>
+            <name>Lunchbreak</name>
+            <presentator>Dennis van de Merbel</presentator>
+        </item>
+        <item>
+            <day>4</day>
+            <start>13:00</start>
+            <end>15:00</end>
+            <name>Dosis Popmuziek</name>
+            <presentator>Hans van Loenhout</presentator>
+        </item>
+        <item>
+            <day>4</day>
+            <start>15:00</start>
+            <end>17:00</end>
+            <name>ZuidWest in de middag</name>
+            <presentator>Dion Dietvorst</presentator>
+        </item>
+        <item>
+            <day>4</day>
+            <start>17:00</start>
+            <end>18:00</end>
+            <name>Hitgalerij</name>
+            <presentator>Felix Moor</presentator>
+        </item>
+        <item>
+            <day>4</day>
+            <start>18:00</start>
+            <end>19:00</end>
+            <name>ZuidWest Update</name>
+            <presentator>Marco Aarden</presentator>
+        </item>
+        <item>
+            <day>4</day>
+            <start>19:00</start>
+            <end>21:00</end>
+            <name>Club ZuidWest</name>
+            <presentator>Ronald en Guiseppe</presentator>
+        </item>
+        <item>
+            <day>4</day>
+            <start>21:00</start>
+            <end>00:00</end>
+            <name>ZuidWest FM Nonstop</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>5</day>
+            <start>07:00</start>
+            <end>09:00</end>
+            <name>Pepijn wordt wakker</name>
+            <presentator>Pepijn Vermunt</presentator>
+        </item>
+        <item>
+            <day>5</day>
+            <start>09:00</start>
+            <end>10:00</end>
+            <name>ZuidWest Werkt</name>
+            <presentator>Thomas Diederen</presentator>
+        </item>
+        <item>
+            <day>5</day>
+            <start>10:00</start>
+            <end>12:00</end>
+            <name>ZuidWest in de morgen</name>
+            <presentator>Marco Aarden</presentator>
+        </item>
+        <item>
+            <day>5</day>
+            <start>12:00</start>
+            <end>13:00</end>
+            <name>Lunchbreak</name>
+            <presentator>Dennis van de Merbel</presentator>
+        </item>
+        <item>
+            <day>5</day>
+            <start>13:00</start>
+            <end>15:00</end>
+            <name>Dosis Popmuziek</name>
+            <presentator>Hans van Loenhout</presentator>
+        </item>
+        <item>
+            <day>5</day>
+            <start>15:00</start>
+            <end>17:00</end>
+            <name>ZuidWest in de middag</name>
+            <presentator>Dion Dietvorst</presentator>
+        </item>
+        <item>
+            <day>5</day>
+            <start>17:00</start>
+            <end>18:00</end>
+            <name>Hitgalerij</name>
+            <presentator>Felix Moor</presentator>
+        </item>
+        <item>
+            <day>5</day>
+            <start>18:00</start>
+            <end>19:00</end>
+            <name>ZuidWest Update</name>
+            <presentator>Dennis van de Merbel</presentator>
+        </item>
+        <item>
+            <day>5</day>
+            <start>19:00</start>
+            <end>21:00</end>
+            <name>Spotlight</name>
+            <presentator>Mario Egthuijsen</presentator>
+        </item>
+        <item>
+            <day>5</day>
+            <start>21:00</start>
+            <end>23:00</end>
+            <name>T-On-Air</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>5</day>
+            <start>23:00</start>
+            <end>08:00</end>
+            <name>ZuidWest FM Nonstop</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>6</day>
+            <start>08:00</start>
+            <end>10:00</end>
+            <name>TimTime</name>
+            <presentator>Tim, Tim en Pepijn</presentator>
+        </item>
+        <item>
+            <day>6</day>
+            <start>10:00</start>
+            <end>12:00</end>
+            <name>Gaaf met de Graaf</name>
+            <presentator>Helmut, André en Ron</presentator>
+        </item>
+        <item>
+            <day>6</day>
+            <start>12:00</start>
+            <end>13:00</end>
+            <name>Weekend gevoel</name>
+            <presentator>Jos Geelhoed</presentator>
+        </item>
+        <item>
+            <day>6</day>
+            <start>13:00</start>
+            <end>15:00</end>
+            <name>ZuidWest FM Nonstop</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>6</day>
+            <start>15:00</start>
+            <end>17:00</end>
+            <name>Gewoon Pieter</name>
+            <presentator>Pieter Hendriks</presentator>
+        </item>
+        <item>
+            <day>6</day>
+            <start>17:00</start>
+            <end>19:00</end>
+            <name>ZuidWest FM Nonstop</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>6</day>
+            <start>19:00</start>
+            <end>10:00</end>
+            <name>ZuidWest FM Nonstop</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>7</day>
+            <start>10:00</start>
+            <end>12:00</end>
+            <name>ZieZoZondag</name>
+            <presentator>Peter en René</presentator>
+        </item>
+        <item>
+            <day>7</day>
+            <start>12:00</start>
+            <end>13:00</end>
+            <name>Weekend gevoel</name>
+            <presentator>Jos Geelhoed</presentator>
+        </item>
+        <item>
+            <day>7</day>
+            <start>13:00</start>
+            <end>15:00</end>
+            <name>ZuidWest FM Nonstop</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>7</day>
+            <start>15:00</start>
+            <end>17:00</end>
+            <name>Thomas Diederen</name>
+            <presentator>Thomas Diederen</presentator>
+        </item>
+        <item>
+            <day>7</day>
+            <start>17:00</start>
+            <end>19:00</end>
+            <name>ZuidWest FM Nonstop</name>
+            <presentator></presentator>
+        </item>
+        <item>
+            <day>7</day>
+            <start>19:00</start>
+            <end>21:00</end>
+            <name>De Weekend Parade</name>
+            <presentator>Ron vd Berg</presentator>
+        </item>
+        <item>
+            <day>7</day>
+            <start>21:00</start>
+            <end>23:00</end>
+            <name>Crossroads</name>
+            <presentator>Jos van den Boom</presentator>
+        </item>
+        <item>
+            <day>7</day>
+            <start>23:00</start>
+            <end>07:00</end>
+            <name>ZuidWest FM Nonstop</name>
+            <presentator></presentator>
+        </item>
+    </programmering>
+</rss>
