@@ -51,7 +51,7 @@ function get_current_show($data, $now = null) {
     return null;
 }
 
-$xml = file_get_contents('http://www.zuidwesttv.nl/teksttv/fmprogrammering.xml');
+$xml = file_get_contents('http://www.zuidwesttv.nl/teksttv/fmprogrammering.php');
 
 $show = get_current_show($xml);
 
